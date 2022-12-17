@@ -3,13 +3,13 @@
 
 <br>
 
-<p align="left">This repository does not contain CSS. <a href="https://utilities.ming.jp.net/web-tools/pw-gen">Here</a> is my example with CSS fitting the theme of my site. The source to that CSS is Bootstrap, <a href="https://cdn.ming.jp.net/pw-gen/main.css">this</a>, and <a href="https://cdn.ming.jp.net/root/css/main.css">this</a>.</p>
+<p align="left">This repository does not contain CSS. <a href="https://utilities.ming.jp.net/web-tools/pw-gen">Here</a> is my example with CSS fitting the theme of my site. The source to that CSS is Bootstrap, <a href="https://cdn.ming.jp.net/utilities/web-tools/pw-gen/main.css">this</a>, and <a href="https://cdn.ming.jp.net/utilities/css/main.css">this</a>.</p>
 
 &nbsp;
 ___
 &nbsp;
 
-<img align="center" src="https://cdn.ming.jp.net/pw-gen/imgs/cover.png">
+<img align="center" src="https://cdn.ming.jp.net/utilities/web-tools/pw-gen/imgs/cover.png">
 
 &nbsp;
 ___
