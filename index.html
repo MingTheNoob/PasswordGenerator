@@ -7,35 +7,35 @@
     <title>Password Generator</title>
 </head>
 <body>
-    <div>
-        <h1>Password Generator</h1>
-        <div>
-            <div>
+    <div class="pw-container">
+        <h1 class="pw-heading">Password Generator</h1>
+        <div class="pw-header">
+            <div class="pw">
                 <div id="pw"><i>Waiting for password...</i></div>
             </div>
         </div>
-        <div>
-            <div>
+        <div class="pw-body">
+            <div class="form-control pw-gen-form-bg">
                 <label for="len">Password Length</label>
-                <input type="number" value="16" min="4" max="32" id="len">
+                <input id="len" value="16" type="number" min="4" max="32">
             </div>
-            <div>
-                <label for="upper">Include Uppercase</label>
-                <input type="checkbox" checked="checked" id="upper">
+            <div class="form-control pw-gen-form-bg">
+                <label id="upperLabel" class="pw-checked" for="upper">Include Uppercase</label>
+                <input id="upper" type="checkbox" checked="checked">
             </div>
-            <div>
-                <label for="lower">Include Lowercase</label>
-                <input type="checkbox" checked="checked" id="lower">
+            <div class="form-control pw-gen-form-bg">
+                <label id="lowerLabel" class="pw-checked" for="lower">Include Lowercase</label>
+                <input id="lower" type="checkbox" checked="checked">
             </div>
-            <div>
-                <label for="number">Include Numbers</label>
-                <input type="checkbox" checked="checked" id="number">
+            <div class="form-control pw-gen-form-bg">
+                <label id="numberLabel" class="pw-checked" for="number">Include Numbers</label>
+                <input id="number" type="checkbox" checked="checked">
             </div>
-            <div>
-                <label for="symbol">Include Symbols</label>
-                <input type="checkbox" checked="checked" id="symbol">
+            <div class="form-control pw-gen-form-bg">
+                <label id="symbolLabel" class="pw-checked" for="symbol">Include Symbols</label>
+                <input id="symbol" type="checkbox" checked="checked">
             </div>
-            <button id="generate">Generate Password</button>
+            <button class="generate btn pw-gen-btn" id="generate">Generate Password</button>
         </div>
     </div>
     <script src="main.js"></script>
