@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="left">This repository does not contain CSS. <a href="https://cdn.mingsutilities.com/web-tools/pw-gen">Here</a> is my example with CSS fitting the theme of my site. The source to that CSS is Bootstrap, <a href="https://cdn.mingsutilities.com/utilities/web-tools/pw-gen/main.css">this</a>, and <a href="https://cdn.mingsutilities.com/utilities/css/main.css">this</a>.</p>
+<p align="left">This repository does not contain CSS. <a href="https://mingsutilities.com/web-tools/pw-gen">Here</a> is my example with CSS fitting the theme of my site. The source to that CSS is Bootstrap, <a href="https://cdn.mingsutilities.com/utilities/web-tools/pw-gen/main.css">this</a>, and <a href="https://cdn.mingsutilities.com/utilities/css/main.css">this</a>.</p>
 
 &nbsp;
 ___
